@@ -4,9 +4,10 @@ name: am_owners
 # 第2段（1社ずつ三重確認）は researcher.yml の am_owners が inputs/am_owners.csv を拾って回す。
 
 on:
-  push:
-    branches: [main]
-    paths: [".github/workflows/am_owners.yml", "researcher/build_am_owners.py"]
+  # 2026-11-24 課金の止め：自動の起動（schedule・push・pull_request など）は外した。手動（workflow_dispatch）だけ。消さずにコメントで残す
+  # push:
+  #   branches: [main]
+  #   paths: [".github/workflows/am_owners.yml", "researcher/build_am_owners.py"]
   workflow_dispatch: {}
 
 permissions:
@@ -15,7 +16,7 @@ permissions:
 jobs:
   search:
     runs-on: ubuntu-latest
-    timeout-minutes: 120
+    timeout-minutes: 25  # 2026-11-24 120→25（10分×2回）
     strategy:
       fail-fast: false
       matrix:
@@ -25,6 +26,21 @@ jobs:
       AM_SHARDS: "10"
       AM_DEADLINE_S: "500"
     steps:
+      # 2026-11-24 billing_guard（共通の止めスイッチ）：既定の枝の billing_guard.yaml が enabled: true でなければ、何もせずここで止める。true にするのは本人の指示があったときだけ
+      - name: billing_guard（共通の止めスイッチ）を読む
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+          sparse-checkout: billing_guard.yaml
+          sparse-checkout-cone-mode: false
+          path: .billing_guard
+      - name: billing_guard（共通の止めスイッチ）が false なら止める
+        run: |
+          if ! grep -Eq '^enabled:[[:space:]]*true[[:space:]]*(#.*)?$' "$GITHUB_WORKSPACE/.billing_guard/billing_guard.yaml" 2>/dev/null; then
+            echo "::error::billing_guard.yaml が enabled: true ではないので、何もせずに止めた（課金の止めスイッチ・2026-11-24）"
+            exit 1
+          fi
+          rm -rf "$GITHUB_WORKSPACE/.billing_guard"
       - uses: actions/checkout@v4
         with: { ref: main }
       - uses: actions/setup-python@v5
@@ -36,7 +52,7 @@ jobs:
         run: |
           git config user.name "a1-researcher"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          for round in 1 2 3 4 5 6 7 8 9 10 11 12; do
+          for round in 1 2; do  # 2026-11-24 12回→2回
             timeout 600 python -m researcher.build_am_owners || true
             git add researcher/out/am_owners/evidence
             if ! git diff --cached --quiet; then
@@ -47,9 +63,26 @@ jobs:
           done
 
   summarize:
+    needs: search  # 2026-11-24 7分おきに13回待つのをやめ、検索が終わってから1回だけまとめる
+    if: always()
     runs-on: ubuntu-latest
-    timeout-minutes: 125
+    timeout-minutes: 10  # 2026-11-24 125→10
     steps:
+      # 2026-11-24 billing_guard（共通の止めスイッチ）：既定の枝の billing_guard.yaml が enabled: true でなければ、何もせずここで止める。true にするのは本人の指示があったときだけ
+      - name: billing_guard（共通の止めスイッチ）を読む
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+          sparse-checkout: billing_guard.yaml
+          sparse-checkout-cone-mode: false
+          path: .billing_guard
+      - name: billing_guard（共通の止めスイッチ）が false なら止める
+        run: |
+          if ! grep -Eq '^enabled:[[:space:]]*true[[:space:]]*(#.*)?$' "$GITHUB_WORKSPACE/.billing_guard/billing_guard.yaml" 2>/dev/null; then
+            echo "::error::billing_guard.yaml が enabled: true ではないので、何もせずに止めた（課金の止めスイッチ・2026-11-24）"
+            exit 1
+          fi
+          rm -rf "$GITHUB_WORKSPACE/.billing_guard"
       - uses: actions/checkout@v4
         with: { ref: main }
       - uses: actions/setup-python@v5
@@ -59,8 +92,8 @@ jobs:
         run: |
           git config user.name "a1-researcher"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          for round in $(seq 1 13); do
-            sleep 420
+          for round in 1; do
+            sleep 0
             git pull -q --rebase || true
             python -m researcher.build_am_owners summarize
             # 2026-11-10 まだ0件で owners.csv が無い回に git add で落ちて、まとめが止まっていたので、あるものだけ add する

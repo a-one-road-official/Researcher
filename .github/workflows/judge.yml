@@ -2,6 +2,7 @@ name: Judge
 # 2026-11-09 AI判定。GitHub Models は 2026-07-30 に廃止済みのため、作業機の中で無料の公開モデル（Ollama, qwen2.5:7b）を動かす。
 # キー・課金・外部AIサービスなし。調査の回（collect）の最後に呼ばれる。手動でも回せる
 on:
+  # 2026-11-24 課金の止め：自動の起動（schedule・push・pull_request など）は外した。手動（workflow_dispatch）だけ。消さずにコメントで残す
   workflow_dispatch: {}
 permissions:
   contents: write
@@ -9,12 +10,27 @@ concurrency: { group: researcher-judge, cancel-in-progress: false }
 jobs:
   judge:
     runs-on: ubuntu-latest
-    timeout-minutes: 180
+    timeout-minutes: 60  # 2026-11-24 180→60
     services:
       ollama:
         image: ollama/ollama:latest
         ports: ["11434:11434"]
     steps:
+      # 2026-11-24 billing_guard（共通の止めスイッチ）：既定の枝の billing_guard.yaml が enabled: true でなければ、何もせずここで止める。true にするのは本人の指示があったときだけ
+      - name: billing_guard（共通の止めスイッチ）を読む
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+          sparse-checkout: billing_guard.yaml
+          sparse-checkout-cone-mode: false
+          path: .billing_guard
+      - name: billing_guard（共通の止めスイッチ）が false なら止める
+        run: |
+          if ! grep -Eq '^enabled:[[:space:]]*true[[:space:]]*(#.*)?$' "$GITHUB_WORKSPACE/.billing_guard/billing_guard.yaml" 2>/dev/null; then
+            echo "::error::billing_guard.yaml が enabled: true ではないので、何もせずに止めた（課金の止めスイッチ・2026-11-24）"
+            exit 1
+          fi
+          rm -rf "$GITHUB_WORKSPACE/.billing_guard"
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with: { python-version: "3.12" }
@@ -26,7 +42,7 @@ jobs:
           curl -sf http://localhost:11434/api/tags | head -c 300
       - run: python -m researcher.judge_ai
         env:
-          JUDGE_MINUTES: "150"
+          JUDGE_MINUTES: "50"
       - if: always()
         run: |
           git config user.name "a1-researcher"

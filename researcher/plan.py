@@ -35,13 +35,24 @@ def main() -> int:
                 has_rows = False
             if not has_rows:
                 continue
-        left = remaining(name)
+        # 2026-11-24 入力のCSVが無いテーマ（am_soft_peers_jp）で plan ごと落ち、11/12以降は調査が毎回0件だった。無いテーマは飛ばして名前を出す
+        try:
+            left = remaining(name)
+        except FileNotFoundError as e:
+            print(f"skip {name}: input missing ({e.filename})", file=sys.stderr)
+            continue
         total += left
         if left == 0:
             continue
         shards = max(1, min(int(cfg.get("shards", 4)), 20, left))
         for i in range(shards):
             include.append({"topic": name, "shard": i, "shards": shards, "limit": int(cfg.get("per_run", 10))})
+    # 2026-11-24 課金の止め：1回の実行で立てる調査の本数に上限を置く（無いと82本×60分が一度に立つ）。既定4本、PLAN_MAX_JOBS で下げられる（上げられるのは本人の指示のときだけ）
+    import os
+    cap = max(0, min(int(os.environ.get("PLAN_MAX_JOBS", "4") or 4), 4))
+    if len(include) > cap:
+        print(f"plan: {len(include)} jobs -> capped at {cap}", file=sys.stderr)
+        include = include[:cap]
     print(json.dumps({"include": include, "remaining": total}, ensure_ascii=False))
     return 0
 

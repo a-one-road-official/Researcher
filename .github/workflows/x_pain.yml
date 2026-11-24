@@ -6,9 +6,10 @@ name: X pain
 
 # 2026-11-17 本人「Usageをunder controlしろ」：control.yaml を触るたびに有料APIが回っていたので push 起動を外した。定期1日1回＋手動だけ
 on:
+  # 2026-11-24 課金の止め：自動の起動（schedule・push・pull_request など）は外した。手動（workflow_dispatch）だけ。消さずにコメントで残す
   workflow_dispatch: {}
-  schedule:
-    - cron: "17 0 * * *"   # 1日1回 JST 9:17（直近7日の検索なので1日1回で取りこぼさない。2026-11-16 本人：最小資源最大成果）
+  # schedule:
+  #   - cron: "17 0 * * *"   # 1日1回 JST 9:17（直近7日の検索なので1日1回で取りこぼさない。2026-11-16 本人：最小資源最大成果）
 
 permissions:
   contents: write
@@ -20,8 +21,23 @@ concurrency:
 jobs:
   x_pain:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 10  # 2026-11-24 30→10（100件は数分）
     steps:
+      # 2026-11-24 billing_guard（共通の止めスイッチ）：既定の枝の billing_guard.yaml が enabled: true でなければ、何もせずここで止める。true にするのは本人の指示があったときだけ
+      - name: billing_guard（共通の止めスイッチ）を読む
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+          sparse-checkout: billing_guard.yaml
+          sparse-checkout-cone-mode: false
+          path: .billing_guard
+      - name: billing_guard（共通の止めスイッチ）が false なら止める
+        run: |
+          if ! grep -Eq '^enabled:[[:space:]]*true[[:space:]]*(#.*)?$' "$GITHUB_WORKSPACE/.billing_guard/billing_guard.yaml" 2>/dev/null; then
+            echo "::error::billing_guard.yaml が enabled: true ではないので、何もせずに止めた（課金の止めスイッチ・2026-11-24）"
+            exit 1
+          fi
+          rm -rf "$GITHUB_WORKSPACE/.billing_guard"
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with: { python-version: "3.12" }

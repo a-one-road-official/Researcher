@@ -84,7 +84,38 @@ def judge(text: str, bio: str) -> tuple[int, list[str], list[str]]:
     return len(marks), marks, inds
 
 
-def fetch(query: str, token: str, since_id: str | None, budget: int) -> tuple[list[dict], dict, str | None, str]:
+# 2026-11-24 課金の止め：1回の上限に加えて、1日・1か月の上限件数をコードで持つ。超えそうなら読まずに止める。
+# 台帳は out/x_pain/usage.json（ワークフローが commit する）。呼ぶ前に「頼む件数」を先に使ったことにして書き、
+# 返ってきた件数で直す（途中で落ちても多めに数えた側に倒れる）。上限が control.yaml に無い・0 なら読まない。
+# 残高の自動補充は使わない前提（残高切れ 402 が来たらそこで止める）。
+USAGE = OUT / "usage.json"
+X_MIN_REQUEST = 10  # recent search の max_results の下限。残りがこれ未満なら頼まない（頼むと10件まで返る）
+
+
+class Ledger:
+    def __init__(self, per_day: int, per_month: int, now: datetime):
+        self.day, self.month = now.strftime("%Y-%m-%d"), now.strftime("%Y-%m")
+        self.per_day, self.per_month = per_day, per_month
+        try:
+            self.data = json.loads(USAGE.read_text(encoding="utf-8"))
+        except Exception:
+            self.data = {}
+        self.data.setdefault("days", {}); self.data.setdefault("months", {})
+
+    def left(self) -> int:
+        d = self.per_day - int(self.data["days"].get(self.day, 0))
+        m = self.per_month - int(self.data["months"].get(self.month, 0))
+        return max(0, min(d, m))
+
+    def add(self, n: int) -> None:
+        self.data["days"][self.day] = int(self.data["days"].get(self.day, 0)) + n
+        self.data["months"][self.month] = int(self.data["months"].get(self.month, 0)) + n
+        self.data["caps"] = {"per_day": self.per_day, "per_month": self.per_month}
+        OUT.mkdir(parents=True, exist_ok=True)
+        USAGE.write_text(json.dumps(self.data, ensure_ascii=False, indent=1), encoding="utf-8")
+
+
+def fetch(query: str, token: str, since_id: str | None, budget: int, ledger: "Ledger") -> tuple[list[dict], dict, str | None, str]:
     """1つの検索式で、budget 件まで新しい投稿を取る。返り値：(投稿, ユーザー辞書, 最新ID, エラー)"""
     headers = {"Authorization": f"Bearer {token}", "User-Agent": "a1-researcher"}
     params = {
@@ -96,17 +127,20 @@ def fetch(query: str, token: str, since_id: str | None, budget: int) -> tuple[li
         params["since_id"] = since_id
     tweets, users, newest, err = [], {}, None, ""
     while budget > 0:
-        params["max_results"] = max(10, min(100, budget))
+        ask = min(100, budget, ledger.left())
+        if ask < X_MIN_REQUEST:  # 1回・1日・1か月のどれかの残りが10件未満：頼まない
+            err = err or f"上限で止めた（この回の残り {budget}・1日/1か月の残り {ledger.left()}）"
+            break
+        params["max_results"] = ask
+        ledger.add(ask)  # 先に頼む件数を使ったことにする
         r = requests.get(API, headers=headers, params=params, timeout=30)
-        if r.status_code == 429:
-            reset = int(r.headers.get("x-rate-limit-reset", time.time() + 60))
-            time.sleep(max(5, min(900, reset - time.time() + 2)))
-            continue
-        if r.status_code != 200:
+        if r.status_code != 200:  # 429 も待って再試行せずに止める（2026-11-24）
+            ledger.add(-ask)
             err = f"status={r.status_code} {r.text[:300]}"
             break
         j = r.json()
         data = j.get("data") or []
+        ledger.add(len(data) - ask)  # 返ってきた件数に直す
         for u in (j.get("includes") or {}).get("users") or []:
             users[u["id"]] = u
         tweets.extend(data)
@@ -134,7 +168,16 @@ def main() -> int:
         print("x_pain: no token")
         return 0
 
-    total_budget = int(cfg.get("max_posts_per_run", 300))
+    total_budget = int(cfg.get("max_posts_per_run") or 0)
+    per_day, per_month = int(cfg.get("max_posts_per_day") or 0), int(cfg.get("max_posts_per_month") or 0)
+    ledger = Ledger(per_day, per_month, datetime.now(timezone.utc))
+    if min(total_budget, per_day, per_month) < X_MIN_REQUEST or ledger.left() < X_MIN_REQUEST:
+        msg = (f"上限で読まなかった（1回 {total_budget}・1日 {per_day}・1か月 {per_month}・"
+               f"今日/今月の残り {ledger.left()}。上限は control.yaml の x_pain に本人が書く。0・未記入は読まない）")
+        with open(log, "a", encoding="utf-8") as f:
+            f.write(f"- {now}：{msg}\n")
+        print("x_pain:", msg)
+        return 0
     min_score = int(cfg.get("min_score", 2))
     queries = load_queries()
     per_q = max(10, total_budget // max(1, len(queries)))
@@ -152,7 +195,7 @@ def main() -> int:
         if used >= total_budget:
             lines.append(f"  - {q['名前']}：この回の上限 {total_budget} 件に達したので次の回へ")
             continue
-        tw, users, newest, err = fetch(q["検索式"], token, state.get(q["名前"]), min(per_q, total_budget - used))
+        tw, users, newest, err = fetch(q["検索式"], token, state.get(q["名前"]), min(per_q, total_budget - used), ledger)
         used += len(tw)
         new = 0
         for t in tw:

@@ -6,14 +6,15 @@ name: Researcher
 # calls the next one itself until the topic is finished or switched off.
 
 on:
-  push:
-    branches: [main]
-    paths:
-      - "researcher/control.yaml"
+  # 2026-11-24 課金の止め：自動の起動（schedule・push・pull_request など）は外した。手動（workflow_dispatch）だけ。消さずにコメントで残す
+  # push:
+  #   branches: [main]
+  #   paths:
+  #     - "researcher/control.yaml"
   workflow_dispatch: {}
-  schedule:
+  # schedule:
     # 3時間おき（JST 0,3,6,9,12,15,18,21時台）。取り直しの期限が来た品目・顧客だけを回す
-    - cron: "*/30 * * * *"
+  #   - cron: "*/30 * * * *"
 
 permissions:
   contents: write
@@ -24,11 +25,28 @@ permissions:
 
 jobs:
   build:
+    # 2026-11-24 課金の止め：毎回90分で区切られ、名簿（award_chain）が終わらない（1回約33社しか進まず、chain.csv は約4,956行で増え続ける）。11/16の回は plan が1秒で落ちて調査が0件だった。直るまで止める
+    if: ${{ false }}
     concurrency: { group: researcher-build, cancel-in-progress: false }
     # list-building step of switched-on topics (e.g. IR1000: screen all listed companies by margin)
     runs-on: ubuntu-latest
-    timeout-minutes: 300
+    timeout-minutes: 95  # 2026-11-24 300→95（build は 1回90分で区切る作り）
     steps:
+      # 2026-11-24 billing_guard（共通の止めスイッチ）：既定の枝の billing_guard.yaml が enabled: true でなければ、何もせずここで止める。true にするのは本人の指示があったときだけ
+      - name: billing_guard（共通の止めスイッチ）を読む
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+          sparse-checkout: billing_guard.yaml
+          sparse-checkout-cone-mode: false
+          path: .billing_guard
+      - name: billing_guard（共通の止めスイッチ）が false なら止める
+        run: |
+          if ! grep -Eq '^enabled:[[:space:]]*true[[:space:]]*(#.*)?$' "$GITHUB_WORKSPACE/.billing_guard/billing_guard.yaml" 2>/dev/null; then
+            echo "::error::billing_guard.yaml が enabled: true ではないので、何もせずに止めた（課金の止めスイッチ・2026-11-24）"
+            exit 1
+          fi
+          rm -rf "$GITHUB_WORKSPACE/.billing_guard"
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with: { python-version: "3.12" }
@@ -57,6 +75,21 @@ jobs:
       remaining: ${{ steps.p.outputs.remaining }}
       count: ${{ steps.p.outputs.count }}
     steps:
+      # 2026-11-24 billing_guard（共通の止めスイッチ）：既定の枝の billing_guard.yaml が enabled: true でなければ、何もせずここで止める。true にするのは本人の指示があったときだけ
+      - name: billing_guard（共通の止めスイッチ）を読む
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+          sparse-checkout: billing_guard.yaml
+          sparse-checkout-cone-mode: false
+          path: .billing_guard
+      - name: billing_guard（共通の止めスイッチ）が false なら止める
+        run: |
+          if ! grep -Eq '^enabled:[[:space:]]*true[[:space:]]*(#.*)?$' "$GITHUB_WORKSPACE/.billing_guard/billing_guard.yaml" 2>/dev/null; then
+            echo "::error::billing_guard.yaml が enabled: true ではないので、何もせずに止めた（課金の止めスイッチ・2026-11-24）"
+            exit 1
+          fi
+          rm -rf "$GITHUB_WORKSPACE/.billing_guard"
       - uses: actions/checkout@v4
         with: { ref: main }
       - uses: actions/setup-python@v5
@@ -74,11 +107,26 @@ jobs:
     needs: plan
     if: always() && needs.plan.outputs.count != '0'
     runs-on: ubuntu-latest
-    timeout-minutes: 300
+    timeout-minutes: 60  # 2026-11-24 300→60。中の調査は55分で打ち切り、できた分だけ残す
     strategy:
       fail-fast: false
       matrix: ${{ fromJson(needs.plan.outputs.matrix) }}
     steps:
+      # 2026-11-24 billing_guard（共通の止めスイッチ）：既定の枝の billing_guard.yaml が enabled: true でなければ、何もせずここで止める。true にするのは本人の指示があったときだけ
+      - name: billing_guard（共通の止めスイッチ）を読む
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+          sparse-checkout: billing_guard.yaml
+          sparse-checkout-cone-mode: false
+          path: .billing_guard
+      - name: billing_guard（共通の止めスイッチ）が false なら止める
+        run: |
+          if ! grep -Eq '^enabled:[[:space:]]*true[[:space:]]*(#.*)?$' "$GITHUB_WORKSPACE/.billing_guard/billing_guard.yaml" 2>/dev/null; then
+            echo "::error::billing_guard.yaml が enabled: true ではないので、何もせずに止めた（課金の止めスイッチ・2026-11-24）"
+            exit 1
+          fi
+          rm -rf "$GITHUB_WORKSPACE/.billing_guard"
       - uses: actions/checkout@v4
         with: { ref: main }
       - uses: actions/setup-python@v5
@@ -89,7 +137,7 @@ jobs:
           python -m playwright install --with-deps chromium
           sudo apt-get update -qq && sudo apt-get install -y -qq tesseract-ocr tesseract-ocr-jpn poppler-utils
       - name: Research one shard
-        run: python -m researcher.run --topic "${{ matrix.topic }}" --shard ${{ matrix.shard }} --shards ${{ matrix.shards }} --limit ${{ matrix.limit }} --out "shard_out/${{ matrix.topic }}/companies"
+        run: timeout 3300 python -m researcher.run --topic "${{ matrix.topic }}" --shard ${{ matrix.shard }} --shards ${{ matrix.shards }} --limit ${{ matrix.limit }} --out "shard_out/${{ matrix.topic }}/companies"
       - uses: actions/upload-artifact@v4
         with:
           name: research-${{ matrix.topic }}-${{ matrix.shard }}
@@ -104,6 +152,21 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 15
     steps:
+      # 2026-11-24 billing_guard（共通の止めスイッチ）：既定の枝の billing_guard.yaml が enabled: true でなければ、何もせずここで止める。true にするのは本人の指示があったときだけ
+      - name: billing_guard（共通の止めスイッチ）を読む
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+          sparse-checkout: billing_guard.yaml
+          sparse-checkout-cone-mode: false
+          path: .billing_guard
+      - name: billing_guard（共通の止めスイッチ）が false なら止める
+        run: |
+          if ! grep -Eq '^enabled:[[:space:]]*true[[:space:]]*(#.*)?$' "$GITHUB_WORKSPACE/.billing_guard/billing_guard.yaml" 2>/dev/null; then
+            echo "::error::billing_guard.yaml が enabled: true ではないので、何もせずに止めた（課金の止めスイッチ・2026-11-24）"
+            exit 1
+          fi
+          rm -rf "$GITHUB_WORKSPACE/.billing_guard"
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with: { python-version: "3.12" }
@@ -139,4 +202,5 @@ jobs:
           python -m pip install -q pyyaml
           LEFT=$(python -c 'import json,subprocess;print(json.loads(subprocess.check_output(["python","-m","researcher.plan"]))["remaining"])')
           echo "remaining=$LEFT"
-          if [ "$LEFT" != "0" ]; then gh workflow run researcher.yml --ref main; fi
+          # 2026-11-24 課金の止め：自分で次の回を呼ぶのを外した（1回で終わる）
+          # if [ "$LEFT" != "0" ]; then gh workflow run researcher.yml --ref main; fi

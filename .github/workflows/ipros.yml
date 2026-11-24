@@ -3,11 +3,12 @@ name: IPROS list
 # 2026-11-10 本人：イプロス掲載企業（ドライブの ipros_all.csv）から、採用・広告の営業先の名簿を作る。
 # 80本（20台×4本）で同時に確かめる。種→20台で確認→合流、を全部終わるまで自分で繰り返す。Claude は触らない。
 on:
-  push:
-    branches: [main]
-    paths:
-      - ".github/workflows/ipros.yml"
-      - "researcher/build_ipros.py"
+  # 2026-11-24 課金の止め：自動の起動（schedule・push・pull_request など）は外した。手動（workflow_dispatch）だけ。消さずにコメントで残す
+  # push:
+  #   branches: [main]
+  #   paths:
+  #     - ".github/workflows/ipros.yml"
+  #     - "researcher/build_ipros.py"
   workflow_dispatch: {}
 
 permissions:
@@ -19,8 +20,23 @@ concurrency: { group: ipros-list, cancel-in-progress: false }
 jobs:
   seeds:
     runs-on: ubuntu-latest
-    timeout-minutes: 90
+    timeout-minutes: 60  # 2026-11-24 90→60
     steps:
+      # 2026-11-24 billing_guard（共通の止めスイッチ）：既定の枝の billing_guard.yaml が enabled: true でなければ、何もせずここで止める。true にするのは本人の指示があったときだけ
+      - name: billing_guard（共通の止めスイッチ）を読む
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+          sparse-checkout: billing_guard.yaml
+          sparse-checkout-cone-mode: false
+          path: .billing_guard
+      - name: billing_guard（共通の止めスイッチ）が false なら止める
+        run: |
+          if ! grep -Eq '^enabled:[[:space:]]*true[[:space:]]*(#.*)?$' "$GITHUB_WORKSPACE/.billing_guard/billing_guard.yaml" 2>/dev/null; then
+            echo "::error::billing_guard.yaml が enabled: true ではないので、何もせずに止めた（課金の止めスイッチ・2026-11-24）"
+            exit 1
+          fi
+          rm -rf "$GITHUB_WORKSPACE/.billing_guard"
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with: { python-version: "3.12" }
@@ -38,7 +54,7 @@ jobs:
   shard:
     needs: seeds
     runs-on: ubuntu-latest
-    timeout-minutes: 100
+    timeout-minutes: 60  # 2026-11-24 100→60
     strategy:
       fail-fast: false
       max-parallel: 20
@@ -48,6 +64,21 @@ jobs:
       IPROS_SHARDS: "20"
       IPROS_SHARD: ${{ matrix.shard }}
     steps:
+      # 2026-11-24 billing_guard（共通の止めスイッチ）：既定の枝の billing_guard.yaml が enabled: true でなければ、何もせずここで止める。true にするのは本人の指示があったときだけ
+      - name: billing_guard（共通の止めスイッチ）を読む
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+          sparse-checkout: billing_guard.yaml
+          sparse-checkout-cone-mode: false
+          path: .billing_guard
+      - name: billing_guard（共通の止めスイッチ）が false なら止める
+        run: |
+          if ! grep -Eq '^enabled:[[:space:]]*true[[:space:]]*(#.*)?$' "$GITHUB_WORKSPACE/.billing_guard/billing_guard.yaml" 2>/dev/null; then
+            echo "::error::billing_guard.yaml が enabled: true ではないので、何もせずに止めた（課金の止めスイッチ・2026-11-24）"
+            exit 1
+          fi
+          rm -rf "$GITHUB_WORKSPACE/.billing_guard"
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with: { python-version: "3.12" }
@@ -69,6 +100,21 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 20
     steps:
+      # 2026-11-24 billing_guard（共通の止めスイッチ）：既定の枝の billing_guard.yaml が enabled: true でなければ、何もせずここで止める。true にするのは本人の指示があったときだけ
+      - name: billing_guard（共通の止めスイッチ）を読む
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+          sparse-checkout: billing_guard.yaml
+          sparse-checkout-cone-mode: false
+          path: .billing_guard
+      - name: billing_guard（共通の止めスイッチ）が false なら止める
+        run: |
+          if ! grep -Eq '^enabled:[[:space:]]*true[[:space:]]*(#.*)?$' "$GITHUB_WORKSPACE/.billing_guard/billing_guard.yaml" 2>/dev/null; then
+            echo "::error::billing_guard.yaml が enabled: true ではないので、何もせずに止めた（課金の止めスイッチ・2026-11-24）"
+            exit 1
+          fi
+          rm -rf "$GITHUB_WORKSPACE/.billing_guard"
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with: { python-version: "3.12" }
@@ -84,6 +130,7 @@ jobs:
           git add -A researcher/out/ipros_hr researcher/inputs/ipros_hr.csv
           git diff --cached --quiet || git commit -q -m "ipros: merge $(date -u +%FT%TZ)"
           for i in 1 2 3 4 5 6 7 8; do git pull -q --rebase && git push -q && break; sleep 5; done
-      - if: steps.m.outputs.code == '0'
+      # 2026-11-24 課金の止め：自分で次の回を呼ぶのを外した（if を false に）
+      - if: ${{ false }}  # 元：steps.m.outputs.code == '0'
         env: { GH_TOKEN: "${{ github.token }}" }
         run: gh workflow run ipros.yml --ref main
